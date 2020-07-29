@@ -1,0 +1,8 @@
+MAKE SURE TO USE PYTHON3 TO GET MOST UP TO DATE VERSION
+
+to start a new django project -> django-admin startproject
+to make individual apps in the project -> python3 manage.py startapp appname in the root directory
+- apps function as individual parts of the site (store, blogs, etc)
+
+to run server -> python3 manage.py runserver
+
